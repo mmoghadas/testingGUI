@@ -1,6 +1,7 @@
 class TestingGui
     def printSomething
-        puts "printing... something..."
+        puts "printing... somethings..."
+        puts "printing... something...."
     end
 end
 
